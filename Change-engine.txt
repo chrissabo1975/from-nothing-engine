@@ -1,4 +1,4 @@
-TURING CODE 
+..
 Here’s a cleaned-up, well-commented, self-contained Python script that captures the essence of our explorations so far.
 It implements a 2D cellular automaton (based on Conway’s Game of Life + your modifications) that can reproduce the most important behaviors we observed:
 	•	Single seed → emergence of structure
